@@ -7,7 +7,7 @@ Scanner for Simple Indicators of Compromise
 
 Detection is based on four detection methods:
 
-    1. File Name IOC
+    1. File Name IOC NEW 4444
        Regex match on full file path/name
 
     2. Yara Rule Check
